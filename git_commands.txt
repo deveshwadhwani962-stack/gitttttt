@@ -1,7 +1,6 @@
 git status
 clear
 git add
-git status
 git commit -m ""
 git rm testing.py
 git restore testing.py
