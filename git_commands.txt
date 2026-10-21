@@ -6,3 +6,5 @@ git rm testing.py
 git restore testing.py
 
 hello ji
+
+hi ji
