@@ -8,3 +8,5 @@ git restore testing.py
 hello ji
 
 hi ji
+
+git push origin <name>
